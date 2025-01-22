@@ -1,17 +1,27 @@
 .box{
-    width: 100px;
     height: 100px;
 }
+.box-height{
+    height: 50px;
+}
+
 .box1{
-    background-color: bisque;
+    background-color: rgb(228, 205, 155);
 }
 
 .box2{
-    background-color: rgb(235, 177, 106);
+    background-color: rgb(202, 184, 150);
+
 }
 .box3{
-    background-color: rgb(243, 222, 104);
+    background-color: rgb(82, 66, 43);
+
 }
 .box4{
-    background-color: rgb(177, 113, 34);
+    background-color: rgb(158, 124, 83);
+    
 }
+.box5{
+    background-color: rgb(177, 172, 165);
+}
+
